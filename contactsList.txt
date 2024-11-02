@@ -1,0 +1,72 @@
+John Doe|123 Elm Street|123-456-7890
+Jane Smith|456 Oak Avenue|987-654-3210
+Alice Johnson,789 Maple Road,(555) 123-4567
+Bob Brown;321 Pine Lane;555-987-6543
+Charlie Davis|654 Birch Boulevard|444-555-6666
+Diana Evans;876 Cedar Circle;(333) 444-5555
+Edward Wilson|1230 Spruce Drive|222-333-4444
+Fiona Clark,567 Willow Way,111-222-3333
+George Lewis;678 Cherry Street;777-888-9999
+Hannah Lee|789 Ash Road|(999) 000-1111
+Ivy Martin;234 Elm Street;666-555-4444
+Jack Wright,345 Oak Avenue,(888) 123-4567
+Karen Harris;456 Maple Road;555-666-7777
+Larry Walker|567 Pine Lane|444-555-6666
+Mia King|678 Cedar Drive
+Nathan Scott;789 Birch Street;222-333-4444
+Olivia Turner|890 Willow Way|111-222-3333
+Paul Adams;123 Cherry Street;777-888-9999
+Quinn Mitchell|234 Ash Road|(999) 000-1111
+Rachel Robinson,345 Elm Street,666-555-4444
+Steve Hall;456 Oak Avenue;555-666-7777
+Tina Allen|567 Maple Road|444-555-6666
+Ursula Young;678 Pine Lane;333-444-5555
+Victor Adams|789 Cedar Drive|222-333-4444
+Wendy Harris|890 Birch Street|111-222-3333
+Xander Baker;123 Willow Way;777-888-9999
+Yvonne Carter|234 Cherry Street|(999) 000-1111
+Zachary Jones,345 Ash Road,
+Ava Martinez;456 Elm Street;555-666-7777
+Brian Carter|567 Oak Avenue|444-555-6666
+Catherine Lewis;678 Maple Road;333-444-5555
+David Wright|789 Pine Lane|222-333-4444
+Eva Martinez|890 Cedar Drive|111-222-3333
+Frank Davis;123 Birch Street;777-888-9999
+Grace Wilson|234 Willow Way|(999) 000-1111
+Henry Smith;345 Cherry Street;666-555-4444
+Isabella Lee|456 Ash Road;555-666-7777
+James Turner;567 Elm Street;444-555-6666
+Katherine Robinson|678 Oak Avenue|333-444-5555
+Lucas Scott;789 Maple Road;222-333-4444
+Megan Hall|890 Pine Lane|111-222-3333
+Noah Young;123 Cedar Drive;777-888-9999
+Olivia Baker|234 Birch Street|(999) 000-1111
+Patrick Harris;345 Willow Way;666-555-4444
+Quinn Davis|456 Cherry Street;555-666-7777
+Riley Allen;567 Ash Road;444-555-6666
+Sophia Jones|678 Elm Street|333-444-5555
+Saif Chaudhry,583 Pebble Road,999-9999 (843)
+Bob Try, 3833 This Place Road, 999-3-33 (832)
+Thomas Adams;789 Oak Avenue;222-333-4444
+Ursula Brown|890 Maple Road|111-222
+Vera Turner;123 Pine Lane;777-888-9999
+William Clark|234 Cedar Drive|(999) 000-1111
+Xena Wilson;345 Birch Street;666-555-4444
+Yara Martinez|456 Willow Way;555-666-7777
+Zane Scott;567 Cherry Street;444-555-6666
+Jeff Bob,843 MyPlace Road,(843)  123-1235   
+Bob Dylan, My House,
+Bob Smith,My House
+Bob Smith2, MyHouse
+Bob Smith,(843) 123-1234
+Smith Dylan, My House (843- 483-3484
+Luke Clark|234 Cedar Drive|(999) 0b0-1111
+Luke Clark|234 Cedar Drive|(999) 040-1v11
+Luke Clark|234 Cedar Drive|(399) 050-111l
+Bob Clark|234 Cedar Drive|
+Johnny Doe      |234 Cedar Drive|(999) 000-1111   
+Bob Keyboard|123 MyStreet Road|(843) 5.0-4838
+Bob Keyboard|123 MyStreet Road|(843) 540-4838
+Bob Keyboard|123 MyStreet Road|(843) 540-483.8
+Bob Keyboard|123 MyStreet Road|(843) 540-48.8
+Bob Keyboard|123 MyStreet Road|(843) 540-4835.0
