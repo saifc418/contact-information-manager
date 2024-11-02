@@ -1,4 +1,4 @@
-package assignment3;
+package contactinformationmanager;
 
 import java.io.*;
 
