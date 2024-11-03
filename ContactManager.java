@@ -1,4 +1,4 @@
-package contactinformationmanager;
+package contactInformationManager;
 
 import java.io.*;
 
