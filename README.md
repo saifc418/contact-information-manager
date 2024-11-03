@@ -42,7 +42,7 @@ To start, run the program. You will then be prompted with a welcoming introducti
 For support or contact, you can reach out to me via email: chaudhrysa@g.cofc.edu
 
 # Roadmap
-In the future, I hope to have the program write all valid contacts to a new file.
+In the future, the program will write all valid contacts to a new file.
 
 # Contribution
 If you would like to contribute, edit, or further develop the program, feel free to expand upon the code but please cite my email: chaudhrysa@g.cofc.edu
