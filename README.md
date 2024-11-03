@@ -2,7 +2,7 @@
 This project is a Contact Information Manager in Java. This program accepts a text file containing contact names, addresses, and phone numbers. It processes these contacts, determining if they are valid or invalid, based on correct phone number format. It outputs all the invalid contacts that it skips when later outputting the valid contacts.
 
 # Installation
-Download the three attached .java files named Main.java, Contact.java, and ContactManager.java. Be sure to uncomment the first line in the .java files containing "package contactinformationmanager;." Change the package name to the name of the package on your local machine, if necessary.
+Download the three attached .java files named Main.java, Contact.java, and ContactManager.java. Be sure to uncomment the first line in the .java files containing "package contactInformationManager;." Change the package name to the name of the package on your local machine, if necessary.
 
 # Usage
 To start, run the program. You will then be prompted with a welcoming introduction and to enter the absolute file path or 'exit' to terminate the program. If the user enters an invalid file path or command, they will be prompted to enter their input again. Once the user enters a valid file path, the program then outputs all the invalid contacts that it skips from creating new Contact objects. Then, it outputs all the valid contacts that it created a new Contact object for. After, the program again prompts the user to enter the absolute file path if they user would like to process another file. Otherwise, the user may type 'exit' to terminate the program. If the user types 'exit,' they are prompted with a "Good-bye" message.
